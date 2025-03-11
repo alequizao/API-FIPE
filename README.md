@@ -107,7 +107,7 @@ GET /api/mes=319&tipo=2/marca=80/modelo=8071/ano=2020-1/anomodelo=2020/combustiv
 
 ## 🔒 Limites e Cache
 
-- Máximo de 100 requisições por IP a cada 15 minutos
+- Máximo de 10.000 requisições por IP a cada 15 minutos
 - Cache de 1 hora para consultas repetidas
 - Respostas em formato JSON
 - Códigos de status HTTP padrão
