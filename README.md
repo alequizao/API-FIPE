@@ -20,7 +20,7 @@ npm install
 cp .env.example .env
 ```
 Edite o arquivo `.env` com suas configurações:
-- PORT: Porta onde a API vai rodar (default: 3000)
+- PORT: Porta onde a API vai rodar (default: 3456)
 - FIPE_API_URL: URL da API FIPE
 
 4. Inicie o servidor
