@@ -1,4 +1,3 @@
-# API-FIPE
 # API de Consulta FIPE
 
 API REST para consulta de preços de veículos na tabela FIPE com rotas simplificadas e intuitivas.
@@ -7,7 +6,7 @@ API REST para consulta de preços de veículos na tabela FIPE com rotas simplifi
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/alequizao/fipe-api.git
+git clone https://github.com/alequizao/API-FIPE.git
 cd fipe-api
 ```
 
