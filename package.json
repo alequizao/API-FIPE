@@ -2,10 +2,10 @@
   "name": "fipe-api",
   "version": "1.0.0",
   "description": "API para consulta de preços FIPE",
-  "main": "api.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node api.js",
-    "dev": "nodemon api.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
