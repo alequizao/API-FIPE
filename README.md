@@ -94,7 +94,7 @@ GET /api/mes=319&tipo=2/marca=80/modelo=8071/ano=2020-1/anomodelo=2020/combustiv
 **Exemplo de resposta:**
 ```json
 {
-  "Valor": "R$ 92.345,00",
+  "Valor": "R$ 13.345,00",
   "Marca": "Honda",
   "Modelo": "CG 160",
   "AnoModelo": 2020,
